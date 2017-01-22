@@ -13,6 +13,7 @@ Het spel moet aan de volgende functionele eisen voldoen:
 * Tussen 12:00 en 18:00 wordt de bezoeker gegroet met de tekst goede middag en veranderd de achtergrond naar `afternoon.png`.
 * Tussen 18:00 en 00:00 wordt de bezoeker gegroet met de tekst goede avond en veranderd de achtergrond naar `evening.png`.
 * Tussen 00:00 en 06:00 wordt de bezoeker gegroet met de tekst goede nacht en veranderd de achtergrond naar `night.png`.
+* Het huidige tijdstip wordt aan de bezoeker getoont.
 
 ###Technische eisen
 Technische eisen beschrijven aan welke vakgerichte voorwaarden de opdracht moet voldoen. Bijvoorbeeld dat de opdracht in correct validerend HTML en CSS moet zijn geschreven. 
@@ -20,4 +21,4 @@ Technische eisen beschrijven aan welke vakgerichte voorwaarden de opdracht moet 
 Het spel moet aan de volgende technische eisen voldoen:
 * De web pagina bestaat uit correct HTML en CSS.
 * Door gebruik te maken van PHP wordt de content en stijl van de pagina beinvloed.
-* Door gebruik te maken van de PHP functie `date("H")` wordt het tijdstip (uur) bepaalt.
+* Door gebruik te maken van de PHP functie [date()](http://php.net/manual/en/function.date.php) wordt het tijdstip bepaalt. 
