@@ -1,7 +1,7 @@
 ## Goede morgen/middag/avond/nacht
 Tijdens deze opdracht ga je een dynamische web pagina ontwikkelen waarvan de content en achtergrond zich afhankelijk van tijdstip veranderd. Hierbij maak je gebruik van HTML, CSS en PHP.
 
-![Voorbeeld](https://trello-attachments.s3.amazonaws.com/5602585ef0c2d665c7f448d5/2210x1162/25aa2752b5fe7336d08e0ca8eb510bf9/goede_morgen.png)
+[Voorbeeld](https://trello-attachments.s3.amazonaws.com/5602585ef0c2d665c7f448d5/2210x1162/25aa2752b5fe7336d08e0ca8eb510bf9/goede_morgen.png)
 
 De opdracht bestaat uit twee type eisen, functionele eisen en technische eisen. Je moet aan alle deze eisen voldoen!
 
