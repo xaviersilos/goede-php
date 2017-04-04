@@ -5,7 +5,7 @@ Tijdens deze opdracht ga je een dynamische web pagina ontwikkelen waarvan de con
 
 De opdracht bestaat uit twee type eisen, functionele eisen en technische eisen. Je moet aan alle deze eisen voldoen!
 
-###Functionele eisen
+### Functionele eisen
 Functionele eisen beschrijven welke functionaliteit je eindproduct moet bevatten. Functionele eisen mogen nooit van technische aard zijn! Ieder persoon moet kunnen begrijpen welke functionaliteit de opdracht moet bevatten, ongeacht kennisniveau.
 
 Het spel moet aan de volgende functionele eisen voldoen:
@@ -15,7 +15,7 @@ Het spel moet aan de volgende functionele eisen voldoen:
 * Tussen 00:00 en 06:00 wordt de bezoeker gegroet met de tekst goede nacht en veranderd de achtergrond naar `night.png`.
 * Het huidige tijdstip wordt aan de bezoeker getoond.
 
-###Technische eisen
+### Technische eisen
 Technische eisen beschrijven aan welke vakgerichte voorwaarden de opdracht moet voldoen. Bijvoorbeeld dat de opdracht in correct validerend HTML en CSS moet zijn geschreven. 
 
 Het spel moet aan de volgende technische eisen voldoen:
